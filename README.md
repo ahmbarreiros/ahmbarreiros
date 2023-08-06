@@ -45,5 +45,11 @@ Here are some ideas to get you started:
 <hr />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmbarreiros&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D)
+
+<!--
+<hr />
 ![Ahmbarreiros's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmbarreiros&show_icons=true&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D)
+<hr />
+-->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmbarreiros&layout=compact&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D)
