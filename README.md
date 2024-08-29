@@ -1,4 +1,4 @@
-### Welcome !
+### Hello and Welcome!
 
 <!--
 **ahmbarreiros/ahmbarreiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 -->
 <main align="center">
   <div id="badges">
+    <h3>LinkedIn Profile</h3>
     <a href="https://www.linkedin.com/in/ant%C3%B4nio-henrique-0aa9a2242/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=ahmbarreiros&style=flat-square&color=blue" alt="my github view counter"/>
-  <h1>Hi there 👋</h1>
 </main>
 
 ### About Me
