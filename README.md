@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome !
 
 <!--
 **ahmbarreiros/ahmbarreiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +24,9 @@ Here are some ideas to get you started:
   <h1>Hi there 👋</h1>
 </main>
 
+### About Me
+I am a computer science student at UERJ and a data science student at Estácio with a technical degree in Administration. I have an interest in software development and data analysis, working on personal projects in the field using technologies such as Pandas, Seaborn, SQL, MongoDB, React.js, NextJS, and various other related technologies. I am always seeking more knowledge and applying it to contribute efficiently to problem-solving.
+
 
 ### Languages and Technologies:
 <div>
@@ -44,7 +47,7 @@ Here are some ideas to get you started:
 </div>
 <hr />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmbarreiros&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmbarreiros&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D)
 
 <!--
 <hr />
